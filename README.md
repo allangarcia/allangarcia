@@ -4,7 +4,7 @@
 
 - Thank you for accessing my GitHub account.
 - I make accessible apps that eveybody can use.
-- Bellow are all the links for various socials that I use.
+- Bellow are my skillset and some links for further sites about me.
 
 ---
 
