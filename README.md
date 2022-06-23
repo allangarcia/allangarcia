@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://allangarcia.dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allangarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangarcia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allangarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangarcia&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ---
@@ -46,9 +46,7 @@
   <img alt="Node.js javascript engine" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img alt="Express.js framework" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Next.js framework" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-/>
-  <img alt="RubyOnRails framework" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  #
+  <img alt="RubyOnRails framework" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
   <img alt="Django framework" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   
   ## Frontend stack
