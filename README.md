@@ -13,6 +13,8 @@
 - 📖 I’m currently learning Next.js and C++ in parallel
 - 🌐 Go to https://allangarcia.dev for more
 
+---
+
 <div>
   <a href="https://allangarcia.dev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allangarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
