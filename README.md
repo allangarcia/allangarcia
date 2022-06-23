@@ -11,7 +11,7 @@
 - 👨‍💻 I’m currently working with iOS Software Development
 - 👨‍🏫 I'm also University Professor
 - 📖 I’m currently learning Next.js and C++ in parallel
-- 🌐 Go to https://allangarcia.dev for more
+- 🌐 Go to https://allangarcia.com for more
 
 ---
 
