@@ -4,7 +4,7 @@
 
 - Thank you for accessing my GitHub account.
 - I make accessible apps that eveybody can use, focused into low-vision/blind users.
-- Bellow are my skillse, some links, and further sites about me.
+- Bellow are my skillset, some links, and further sites about me.
 
 ---
 
