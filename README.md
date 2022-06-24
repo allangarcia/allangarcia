@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m a Senior Software Engineer and a DevOps Engineer
 - 👨‍🏫 Working as an University Professor lecturing about Computers' Networks, Systems Operation, and Service Oriented Programming
-- 📖 Currently learning Next.js/Typescript and C++ in parallel.
+- 📖 Currently learning Next.js/Typescript and C++ in parallel
 - 🌐 Go to https://allangarcia.com for more info about me
 
 ---
