@@ -8,10 +8,10 @@
 
 ---
 
-- 👨‍💻 I’m currently working with iOS Software Development
-- 👨‍🏫 I'm also University Professor
-- 📖 I’m currently learning Next.js and C++ in parallel
-- 🌐 Go to https://allangarcia.com for more
+- 👨‍💻 I’m currently working with Senior Software Engineer
+- 👨‍🏫 and also an University Professor of Computers' Networks and Service Oriented Programming
+- 📖 Currently learning Next.js/Typescript and C/C++ in parallel, mostly C++ thou.
+- 🌐 Go to https://allangarcia.com for more info about me
 
 ---
 
