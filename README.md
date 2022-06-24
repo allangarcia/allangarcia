@@ -3,7 +3,7 @@
 ## This is Allan Garcia speaking!
 
 - Thank you for accessing my GitHub account.
-- I make accessible apps that eveybody can use, with focus into low-vision/blind users.
+- I make accessible apps that eveybody can use, focused into low-vision/blind users.
 - Bellow are my skillse, some links, and further sites about me.
 
 ---
