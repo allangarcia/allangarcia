@@ -13,7 +13,7 @@
 - 👨‍🏫 Working at IFRN – The Federal Institute of Technology of Rio Grande do Norte since Jan 2010
 - 📣 Lecturing about Computer Networks, Network Operational Systems (Linux / Windows Server), and Service Oriented Programming 
 - 📖 Currently learning Next.js/Typescript and C++ in parallel
-- 🌐 Google me if you want to know about me, weird! ;)
+- 🌐 Google me if you want to know about me. ;)
 
 ---
 
