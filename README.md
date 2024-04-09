@@ -12,12 +12,15 @@
 - 📣 Lecturer in Computer Science and Computer Networks topics with 15+ years of experience
 - 📕 I'm the author of the "A Senior Software Engineer Manifesto", my take on how a Senior Enginner should be shaped, available at:
   [A Senior Software Engineer Manifesto | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/a-senior-software-engineer-manifesto-431fb34194f5)
+- 👀 Looking for an IA/ML Engineer position. I have strong knowledge in Neural Networks structures, IA/ML Mathematics foundation, also Techniques/Algorithms knowledge in the Machine Learning area from my Master's.
 
-## Skills
+## Where do I excel?
 
 I'm not a believer that a Senior Engineer are limited to his skillset, read more about this on my
 [A Senior Software Engineer Manifesto | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/a-senior-software-engineer-manifesto-431fb34194f5),
 but here it is:
+
+## Skills
 
 - **IA/ML:** PostgreSQL (General Relational Databases), MongoDB (General Non-Relational Databases), Python, NumPy, SciPy, scikit-learn, matplotlib, seaborn, Kaggle Datasets, PyTorch, TensorFlow, and other AI libraries in general, including the use of LLM APIs such as OpenAI and similar ones
 - **BACKEND:** Python, Django, Flask, Ruby, RubyOnRails, Node.js, Express.js, MongoDB, GraphQL, microservices, serverless, among others
