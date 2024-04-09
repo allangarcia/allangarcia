@@ -6,13 +6,11 @@
 
 ## About me
 
-- 👨‍💻 I’m a Senior Software Engineer and a Professor
+- 👨‍💻 I’m a Senior Software Engineer and Professor
+- 🐍 Coding Python with 15+ years of experience
 - 🚀 Coding Swift and Objective-C with 15+ years of experience
-- 👨🏼‍🏫 Currently Working at IFRN – The Federal Institute of Technology of Rio Grande do Norte since Jan 2010 in Natal,
-  Brazil
-- 📣 Lecturing about Computer Networks classes, also, Network's Operational Systems (Linux / Windows Server), Service
-  Oriented Programming, Mobile Programming among others things
-- 📕 I'm the author of the "A Senior Software Engineer Manifesto", available at:
+- 📣 Lecturer in Computer Science and Computer Networks topics with 15+ years of experience
+- 📕 I'm the author of the "A Senior Software Engineer Manifesto", my take on how a Senior Enginner should be shaped, available at:
   [A Senior Software Engineer Manifesto | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/a-senior-software-engineer-manifesto-431fb34194f5)
 
 ## Skills
