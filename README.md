@@ -4,29 +4,25 @@
 - I make accessible apps that eveybody can use, focused into low-vision/blind users.
 - Bellow are my skills, some links, and further sites about me.
 
-## About me
+## What I'm looking for?
+
+- 👀 I'm looking for open roles that fit my knownledge and profile. Strong Analytical Skills. Critical Thinking. Build Scalable and Efficient Solutions.
+
+## My skills
 
 - 👨‍💻 I’m a Senior Software Engineer and Professor
-- 🐍 Coding Python with 15+ years of experience
-- 🚀 Coding Swift and Objective-C with 15+ years of experience
-- 📣 Lecturer in Computer Science and Computer Networks topics with 15+ years of experience
-- 📕 I'm the author of the "A Senior Software Engineer Manifesto", my take on how a Senior Enginner should be shaped, available at:
+- 🚀 Coding in Swift about 10+ years
+- ⚙️ Coding in SwiftUI about 5+ years
+- 🥶 Coding in Objective-C about 15+ years (switched to Swift nowdays, but still can keep legacy code)
+- 🐍 Coding in Python about 15+ years
+- 🚂 Coding in Ruby/Rails about 5+ years
+- 🐧 Strong knowledge in Linux systems, DevOps, CI/CD and Cloud Providers (AWS, Google Cloud, Azure)
+- 📣 Lecturer in Computer Science and Computer Networks topics since 2008 at University and College Institutions
+
+## Some publications
+
+- 📕 "A Senior Software Engineer Manifesto", my take on how a Senior Enginner should be shaped, available at:
   [A Senior Software Engineer Manifesto | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/a-senior-software-engineer-manifesto-431fb34194f5)
-- 👀 Looking for an IA/ML Engineer position. I have strong knowledge in Neural Networks structures, IA/ML Mathematics foundation, also Techniques/Algorithms knowledge in the Machine Learning area from my Master's.
-
-## Where do I excel?
-
-I'm not a believer that a Senior Engineer are limited to his skillset, read more about this on my
-[A Senior Software Engineer Manifesto | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/a-senior-software-engineer-manifesto-431fb34194f5),
-but here it is:
-
-## Skills
-
-- **IA/ML:** PostgreSQL (General Relational Databases), MongoDB (General Non-Relational Databases), Python, NumPy, SciPy, scikit-learn, matplotlib, seaborn, Kaggle Datasets, PyTorch, TensorFlow, and other AI libraries in general, including the use of LLM APIs such as OpenAI and similar ones
-- **BACKEND:** Python, Django, Flask, Ruby, RubyOnRails, Node.js, Express.js, MongoDB, GraphQL, microservices, serverless, among others
-- **DEVOPS:** Linux, Bash/BashScript, Python, AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure (Microsoft Cloud Azure), Docker, DockerCli, Kubernetes, IaC (Infrastructure as a Code), Ansible, Terraform, VMWare Suite, Xen/KVM/QEMU/oVirt, and other open-source virtualization solutions
-- **MOBILE:** More familiar with Swift/Objective-C, MVC/MVVM, SwiftUI/UIKit, Combine, Dispatch, StoreKit, GameKit, AVFoundation, CoreData, CloudKit, less familiar, but with some experience in React/ReactNative and Flutter
-- **FRONTEND:** HTML5, CSS3, Vanilla JavaScript, TypeScript, React.js, Next.js, Flutter
-- **OTHERS:** My skills are not limited to what are listed above, but also all tooling of DevOps, my own tooling to automate stuff,
-  backups, automated security monitoring and maintainance, and several others that you can interview me to know or see a
-  glimpse of my that on my LinkedIn™ page linked on this Github™ profile.
+- 📕 "The nonsense of nomenclature in the software industry", my opinion about nomenclature of positions in tech, available at:
+  [The nonsense of nomenclature in the software industry | by Allan Garcia | LinkedIn](https://www.linkedin.com/pulse/nonsense-nomenclature-software-industry-allan-garcia-agojf?trackingId=U0evXTBoS9Cn3rIxXlkZiQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B6EeL59GSTamQgaajEHb%2BAg%3D%3D)
+- 📕 "Python is trending, and I don’t think is a good thing!", my truth about Python and his garbage bellow the implementation, available at: [Python is trending, and I don’t think is a good thing! | by Allan Garcia | Medium](https://medium.com/@prof.allangarcia/python-is-trending-and-i-dont-think-is-a-good-thing-a21da525b745)
